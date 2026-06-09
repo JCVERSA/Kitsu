@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "mcp__ScraplingServer__fetch",
+      "WebSearch",
+      "Bash(./gradlew assembleDebug *)"
+    ]
+  }
+}
